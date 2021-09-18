@@ -11,7 +11,7 @@ My languages of choice are:
 ## My Projects
 🟡 I'm currently working on <a href="https://chomping-chimp.github.io/index.html">Exercise Explorer</a>, a website that helps you choose exercises for a workout.   
 ✔️ I've made a <a href="https://github.com/chomping-chimp/Check-In-App">Visitor Check In App</a> as a Proof of Concept Project while at one of my previous jobs.   
-✔️ I just released the inital version of the <a href="https://github.com/chomping-chimp/IdeaLog">Idea Log</a> to help me write down and view me ideas for projects. I still have some features that I'd like to see implemented, so I still have some development to do.   
+✔️ I just released the inital version of the <a href="https://github.com/chomping-chimp/IdeaLog">Idea Log</a> to help me write down and view my ideas for projects. I still have some features that I'd like to see implemented, so I still have some development to do.   
 I have some more that are still in the works, feel free to take a look 👀
 
 ## Contact
